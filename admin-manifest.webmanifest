@@ -1,0 +1,25 @@
+{
+  "name": "May Flowers - Quản trị",
+  "short_name": "May Flowers Admin",
+  "description": "Trang quản trị đơn hàng và nội dung May Flowers",
+  "id": "/admin",
+  "start_url": "/admin",
+  "scope": "/admin",
+  "display": "standalone",
+  "background_color": "#fffdf9",
+  "theme_color": "#488949",
+  "icons": [
+    {
+      "src": "/img/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
